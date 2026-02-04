@@ -1,0 +1,6 @@
+/* FireZEN */
+
+/* Hide secondary tab button */
+#new-tab-button {
+  display: none;
+}
