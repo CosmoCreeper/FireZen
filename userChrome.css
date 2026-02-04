@@ -4,3 +4,8 @@
 #new-tab-button {
   display: none;
 }
+
+/* Hide left border on tabs area */
+#tabbrowser-tabs {
+  border-inline-start: none !important;
+}
