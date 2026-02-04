@@ -1,0 +1,8 @@
+[
+  {
+    "type": "checkbox",
+    "property": "firezen.enable-fire-icon",
+    "defaultValue": true,
+    "label": "Enable the fire icon in the toolbar."
+  }
+]
