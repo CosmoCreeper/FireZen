@@ -9,3 +9,7 @@
 #tabbrowser-tabs {
   border-inline-start: none !important;
 }
+
+#PanelUI-menu-button .toolbarbutton-icon {
+  list-style-image: url("chrome://sine/content/ag7cgog8f-vatc068tj-pfwnzowlv/fire.png");
+}
